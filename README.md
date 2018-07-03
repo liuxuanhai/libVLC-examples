@@ -1,2 +1,3 @@
 # libVLC
-libVLC sample program
+
+libVLC examples
